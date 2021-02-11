@@ -24,12 +24,12 @@ v. Subscription
 
 
 ## Built With
-* Bootstrap- Front-end framework
-* PHP - Back-end language
-* MySQL - Database
-* AdminLTE - AdminLTE is a fully responsive administration template
-* SSLCOMMERZ - The largest payment gateway aggregator in Bangladesh
-* Twilio - Programmable SMS API
+* Bootstrap
+* PHP
+* MySQL
+* AdminLTE
+* SSLCOMMERZ
+* Twilio
 
 ## Project Overview
 
