@@ -24,16 +24,12 @@ v. Subscription
 
 
 ## Built With
-* [Bootstrap](https://getbootstrap.com/) - Front-end framework
-* [PHP](https://www.php.net/) - Back-end language
-* [MySQL](https://www.mysql.com/) - Database
-* [AdminLTE](https://adminlte.io/) - AdminLTE is a fully responsive administration template
-* [SSLCOMMERZ](https://adminlte.io/) - The largest payment gateway aggregator in Bangladesh
-* [Twilio](https://www.twilio.com/) - Programmable SMS API
-
-## Authors
-
-* **Saad Ibna Omar Sabit** - [linkedin](https://www.linkedin.com/in/sabit/)
+* Bootstrap- Front-end framework
+* PHP - Back-end language
+* MySQL - Database
+* AdminLTE - AdminLTE is a fully responsive administration template
+* SSLCOMMERZ - The largest payment gateway aggregator in Bangladesh
+* Twilio - Programmable SMS API
 
 ## Project Overview
 
@@ -47,4 +43,11 @@ v. Subscription
    <h4>Others</h4>
    <img src="https://github.com/ssabit/dsf/blob/master/gif/front.gif"><br>
 </p>
+
+
+
+## Authors
+
+* **Saad Ibna Omar Sabit** - [linkedin](https://www.linkedin.com/in/sabit/)
+
 
