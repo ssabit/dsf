@@ -12,15 +12,16 @@ With DSF it is possible to generate any dynamic form for different user,
 service and can be modified whenever needed.
 
 ## Core Features:
-i. Dynamic form generation and modificaiton
+i. Dynamic Form Generation and Modificaiton
 
-ii. Realtime service tracking
+ii. Realtime Service Tracking
 
 iii. Priority Based Request 
 
 iv. Offine Text SMS
 
 v. Subscription
+
 
 ## Built With
 * [Bootstrap](https://getbootstrap.com/) - Front-end framework
@@ -33,3 +34,17 @@ v. Subscription
 ## Authors
 
 * **Saad Ibna Omar Sabit** - [linkedin](https://www.linkedin.com/in/sabit/)
+
+## Project Overview
+
+<p align="center">
+   <h4>Role: Admin </h4>
+   <img src="https://github.com/ssabit/dsf/blob/master/gif/admin.gif"><br>
+   <h4>Role: Service Provider</h4>
+   <img src="https://github.com/ssabit/dsf/blob/master/gif/service_provider.gif"><br>
+   <h4>Role: General User</h4>
+   <img src="https://github.com/ssabit/dsf/blob/master/gif/general_user.gif"><br>
+   <h4>Others</h4>
+   <img src="https://github.com/ssabit/dsf/blob/master/gif/front.gif"><br>
+</p>
+
